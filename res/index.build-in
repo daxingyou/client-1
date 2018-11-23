@@ -2487,7 +2487,7 @@ bb/7b9487473ac5662fb5109b5542c032: src/app/helpers/calcheroexp.luac
 5a/2b1e7c67540c1226dded3bcc43b009: src/app/helpers/formatres.luac
 54/b6be12e3ce2f536179637f45d70cfb: src/app/helpers/formattime.luac
 c6/908c63410881b226b5288e14ce13f0: src/app/helpers/geo.luac
-a9/83ca91d6c1f89c8e44a6b9d133b0c0: src/app/helpers/invokefriend.luac
+ec/e28067328f4b448a3bf031edfa870e: src/app/helpers/invokefriend.luac
 57/466c5ed4a84e8cd7ad5f10cc3fc7de: src/app/helpers/movie.luac
 c7/fe5fedd7065b325202d8c7302d67dc: src/app/helpers/tools.luac
 c6/d3291211594f7e142ec8783d2f7cc1: src/app/helpers/unlocksoldier.luac
