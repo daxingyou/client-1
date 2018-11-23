@@ -26,7 +26,7 @@ function invokefriend.invoke(deskId, deskInfo,groupInfo)
   local spStr = GameLogic.getSpecialText(deskInfo, 3, true)
 
 	
-  local share_url = 'http://www.meiliedu.net'
+  local share_url = 'http://www.meiliedu.net/download'
   local image_url = 'http://47.92.163.195/icon.png'
 	
 
